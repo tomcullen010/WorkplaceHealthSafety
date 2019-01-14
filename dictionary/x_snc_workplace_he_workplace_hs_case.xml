@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_snc_workplace_he_case_base" label="Workplace HS Case" max_length="40" name="x_snc_workplace_he_workplace_hs_case" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Case classification" max_length="40" name="case_classification" type="string">
+            <choice>
+                <element inactive_on_update="false" label="At work incident" sequence="0" value="At work incident"/>
+                <element inactive_on_update="false" label="On way to work incident" sequence="1" value="On way to work incident"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Case Stages" max_length="40" name="case_stages" type="workflow">
+            <choice>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+                <element inactive_on_update="false" label="Under Review" sequence="1" value="Under Review"/>
+                <element inactive_on_update="false" label="Investigation" sequence="2" value="Investigation"/>
+                <element inactive_on_update="false" label="Assessment" sequence="3" value="Assessment"/>
+                <element inactive_on_update="false" label="Finalized" sequence="4" value="Finalized"/>
+            </choice>
+        </element>
+        <element label="Damaged Item" max_length="32" name="damaged_item" reference="x_snc_met_choices_application" type="reference"/>
+        <element label="Equipment Damaged" max_length="40" name="equipment_damaged" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Impact on person" max_length="40" name="impact_on_person" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Harm or injury" sequence="0" value="Harm or injury"/>
+                <element inactive_on_update="false" label="No harm or injury" sequence="1" value="No harm or injury"/>
+                <element inactive_on_update="false" label="Near miss" sequence="2" value="Near miss"/>
+                <element inactive_on_update="false" label="Death" sequence="3" value="Death"/>
+            </choice>
+        </element>
+        <element label="Incident Date and Time" max_length="40" name="incident_date_and_time" type="glide_date_time"/>
+        <element label="Incident Location" max_length="32" name="incident_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Incident Type" max_length="40" name="incident_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Slip or fall" sequence="0" value="Slip or fall"/>
+                <element inactive_on_update="false" label="Chemical exposure" sequence="1" value="Chemical exposure"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Severity rating" max_length="40" name="severity_rating" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1 - Critical" sequence="0" value="1 - Critical"/>
+                <element inactive_on_update="false" label="2 - Medium" sequence="1" value="2 - Medium"/>
+                <element inactive_on_update="false" label="3 - Low" sequence="2" value="3 - Low"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Treatment" max_length="40" name="treatment" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Minor treatment" sequence="0" value="Minor treatment"/>
+                <element inactive_on_update="false" label="First aid only" sequence="1" value="First aid only"/>
+                <element inactive_on_update="false" label="Long term treatment" sequence="2" value="Long term treatment"/>
+                <element inactive_on_update="false" label="No treatment" sequence="3" value="No treatment"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Who was impacted?" max_length="40" name="who_was_impacted" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Just me" sequence="0" value="Just me"/>
+                <element inactive_on_update="false" label="Others only" sequence="1" value="Others only"/>
+                <element inactive_on_update="false" label="Others and me" sequence="2" value="Others and me"/>
+            </choice>
+        </element>
+    </element>
+</database>

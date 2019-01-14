@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="whs_usrs" name="whs_usrs">cd4b73cddb67030039eff7eabf9619ce</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-07 22:45:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>014b73cddb67030039eff7eabf9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cd4b73cddb67030039eff7eabf9619ce</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_014b73cddb67030039eff7eabf9619d1</sys_update_name>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-07 22:45:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

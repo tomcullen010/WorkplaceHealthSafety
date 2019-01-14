@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="WHS Case Management">2bc3beaddbe34300facf752dbf96199b</flow>
+        <order>10</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b7c3beaddbe34300facf752dbf9619e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_b7c3beaddbe34300facf752dbf9619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 06:50:06</sys_updated_on>
+        <ui_id>d2e8ee9f-0764-4260-9538-b31094219c57</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=b7c3beaddbe34300facf752dbf9619e1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>b7c3beaddbe34300facf752dbf9619e1</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:06</sys_created_on>
+        <sys_id>f7c3beaddbe34300facf752dbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 06:50:06</sys_updated_on>
+        <value>&lt;p&gt;Your case has been finalized, below is the remediation plan for the workplace incident you reported.&lt;/p&gt;
+&lt;p&gt;1. &lt;/p&gt;
+&lt;p&gt;2. &lt;/p&gt;
+&lt;p&gt;3. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=b7c3beaddbe34300facf752dbf9619e1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>b7c3beaddbe34300facf752dbf9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:06</sys_created_on>
+        <sys_id>77c3beaddbe34300facf752dbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 06:50:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>b7c3beaddbe34300facf752dbf9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:06</sys_created_on>
+        <sys_id>b3c3beaddbe34300facf752dbf9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 06:50:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>Workplace HS Case number: {{Created_1.current.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>b7c3beaddbe34300facf752dbf9619e1</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:06</sys_created_on>
+        <sys_id>ffc3beaddbe34300facf752dbf9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-09 06:50:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created_1.current.opened_by}}</value>
+    </sys_element_mapping>
+</record_update>

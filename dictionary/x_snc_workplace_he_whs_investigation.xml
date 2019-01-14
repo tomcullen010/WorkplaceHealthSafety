@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_snc_workplace_he_case_base" label="WHS Investigation" max_length="40" name="x_snc_workplace_he_whs_investigation" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Outcome" max_length="1000" name="outcome" type="string"/>
+    </element>
+</database>

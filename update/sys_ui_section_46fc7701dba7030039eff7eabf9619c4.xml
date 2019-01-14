@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="46fc7701dba7030039eff7eabf9619c4" sys_domain="global" table="x_snc_workplace_he_workplace_hs_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>355e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>b55e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_classification</element>
+            <position>2</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>395e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>incident_type</element>
+            <position>3</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>b95e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>4</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>3d5e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>bd5e7341dba7030039eff7eabf96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>6</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>315e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>b15e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>case_stages</element>
+            <position>8</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>355e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>9</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>b55e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:45</sys_created_on>
+            <sys_id>395e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>11</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:46</sys_created_on>
+            <sys_id>8a5e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>12</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:58:46</sys_created_on>
+            <sys_id>0e5e7341dba7030039eff7eabf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">46fc7701dba7030039eff7eabf9619c4</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:58:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:52:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46fc7701dba7030039eff7eabf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_workplace_he_workplace_hs_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+            <sys_update_name>sys_ui_section_46fc7701dba7030039eff7eabf9619c4</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:52:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

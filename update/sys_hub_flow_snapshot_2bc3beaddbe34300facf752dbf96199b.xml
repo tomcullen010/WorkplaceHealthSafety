@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>whs_case_management</internal_name>
+        <label_cache>[{"name":"d2e8ee9f-0764-4260-9538-b31094219c57.email","label":"10➛email","reference":"sys_email","reference_display":"email"},{"name":"Created_1.current.number","label":"Trigger➛Workplace HS Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"number"},{"name":"541d6a44-47bc-4d1c-8881-c0b2fded9763.record.assigned_to","label":"4➛Workplace HS Case Record➛Assigned to","reference":"sys_user","reference_display":"Assigned to","type":"reference","base_type":"reference","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"assigned_to"},{"name":"211d9cf8-a58c-4b65-a82d-a4205a5ac4c7.table_name","label":"6➛WHS Investigation Table","reference":"x_snc_workplace_he_whs_investigation","reference_display":"WHS Investigation Table"},{"name":"211d9cf8-a58c-4b65-a82d-a4205a5ac4c7.record","label":"6➛WHS Investigation Record","reference":"x_snc_workplace_he_whs_investigation","reference_display":"WHS Investigation Record"},{"name":"541d6a44-47bc-4d1c-8881-c0b2fded9763.table_name","label":"4➛Workplace HS Case Table","reference":"x_snc_workplace_he_workplace_hs_case","reference_display":"Workplace HS Case Table"},{"name":"541d6a44-47bc-4d1c-8881-c0b2fded9763.record","label":"4➛Workplace HS Case Record","reference":"x_snc_workplace_he_workplace_hs_case","reference_display":"Workplace HS Case Record"},{"name":"c5361ec0-df11-43f9-a836-66c7cf93f95e.table_name","label":"2.1➛Equipment Incident Table","reference":"x_snc_workplace_he_equipment_incident","reference_display":"Equipment Incident Table"},{"name":"c5361ec0-df11-43f9-a836-66c7cf93f95e.record","label":"2.1➛Equipment Incident Record","reference":"x_snc_workplace_he_equipment_incident","reference_display":"Equipment Incident Record"},{"name":"1001bfa6-b024-457a-9171-7e9d3169c75f.table_name","label":"1➛Workplace HS Case Table","reference":"x_snc_workplace_he_workplace_hs_case","reference_display":"Workplace HS Case Table"},{"name":"1001bfa6-b024-457a-9171-7e9d3169c75f.record","label":"1➛Workplace HS Case Record","reference":"x_snc_workplace_he_workplace_hs_case","reference_display":"Workplace HS Case Record"},{"name":"211d9cf8-a58c-4b65-a82d-a4205a5ac4c7.record.number","label":"6➛WHS Investigation Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_workplace_he_whs_investigation","column_name":"number"},{"name":"1001bfa6-b024-457a-9171-7e9d3169c75f.record.number","label":"1➛Workplace HS Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"number"},{"name":"1001bfa6-b024-457a-9171-7e9d3169c75f.record.opened_by","label":"1➛Workplace HS Case Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"opened_by"},{"name":"Created_1.current.opened_by","label":"Trigger➛Workplace HS Case Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"opened_by"},{"name":"Created_1.current.short_description","label":"Trigger➛Workplace HS Case Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"short_description"},{"name":"Created_1.current.equipment_damaged","label":"Trigger➛Workplace HS Case Record➛Equipment Damaged","reference":"","reference_display":"Equipment Damaged","type":"boolean","base_type":"boolean","parent_table_name":"x_snc_workplace_he_workplace_hs_case","column_name":"equipment_damaged"},{"name":"Created_1.current","label":"Trigger➛Workplace HS Case Record","reference":"x_snc_workplace_he_workplace_hs_case","reference_display":"Workplace HS Case","type":"reference","base_type":"reference"}]</label_cache>
+        <master>false</master>
+        <name>WHS Case Management</name>
+        <outputs/>
+        <parent_flow display_value="WHS Case Management">7e81c4d1dba7030039eff7eabf9619d1</parent_flow>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-09 06:50:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2bc3beaddbe34300facf752dbf96199b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WHS Case Management</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_2bc3beaddbe34300facf752dbf96199b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-16 19:55:02</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=2bc3beaddbe34300facf752dbf96199b"/>
+</record_update>

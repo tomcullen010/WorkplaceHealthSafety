@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Impacted Items" section_id="b77dbb01dba7030039eff7eabf9619ea" sys_domain="global" table="x_snc_workplace_he_workplace_hs_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>equipment_damaged</element>
+            <position>0</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 19:57:38</sys_created_on>
+            <sys_id>333bfb1e13a303001cdf5aef3244b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impacted Items" display_value="Impacted Items" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">b77dbb01dba7030039eff7eabf9619ea</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 19:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>damaged_item</element>
+            <position>1</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-01-11 19:57:38</sys_created_on>
+            <sys_id>f73bfb1e13a303001cdf5aef3244b0b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Impacted Items" display_value="Impacted Items" name="x_snc_workplace_he_workplace_hs_case" sys_domain="global" view="Default view">b77dbb01dba7030039eff7eabf9619ea</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-01-11 19:57:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Impacted Items</caption>
+            <header>false</header>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 22:55:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b77dbb01dba7030039eff7eabf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Impacted Items</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+            <sys_update_name>sys_ui_section_b77dbb01dba7030039eff7eabf9619ea</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 22:55:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

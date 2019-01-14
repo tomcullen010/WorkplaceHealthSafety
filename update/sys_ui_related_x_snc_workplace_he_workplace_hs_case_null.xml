@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_workplace_he_workplace_hs_case" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Workplace HS Case - Default view" name="x_snc_workplace_he_workplace_hs_case" related_list="NULL" sys_domain="global" view="Default view">1c704891dba7030039eff7eabf961964</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_workplace_he_case_base.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:07:56</sys_created_on>
+            <sys_id>90704891dba7030039eff7eabf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:07:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Workplace HS Case - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:07:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c704891dba7030039eff7eabf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Workplace HS Case - Default view</sys_name>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_workplace_he_workplace_hs_case_null</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:07:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

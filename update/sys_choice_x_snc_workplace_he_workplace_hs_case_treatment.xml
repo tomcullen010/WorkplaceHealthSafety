@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="treatment" table="x_snc_workplace_he_workplace_hs_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treatment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minor treatment</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff5fbb41dba7030039eff7eabf96193e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:03:15</sys_updated_on>
+            <u_translation_log_id/>
+            <value>Minor treatment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treatment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>First aid only</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>335fbb41dba7030039eff7eabf961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:03:15</sys_updated_on>
+            <u_translation_log_id/>
+            <value>First aid only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treatment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Long term treatment</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf5fbb41dba7030039eff7eabf961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:03:15</sys_updated_on>
+            <u_translation_log_id/>
+            <value>Long term treatment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>treatment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No treatment</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:03:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff5f7f41dba7030039eff7eabf96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:03:15</sys_updated_on>
+            <u_translation_log_id/>
+            <value>No treatment</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>treatment</element>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:03:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a821b79213a303001cdf5aef3244b075</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>treatment</sys_name>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_workplace_he_workplace_hs_case_treatment</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:03:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

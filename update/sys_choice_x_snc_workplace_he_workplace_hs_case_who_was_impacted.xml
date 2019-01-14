@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="who_was_impacted" table="x_snc_workplace_he_workplace_hs_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>who_was_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Just me</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:00:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dbe7741dba7030039eff7eabf9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:00:22</sys_updated_on>
+            <u_translation_log_id/>
+            <value>Just me</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>who_was_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others only</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:00:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddbe7741dba7030039eff7eabf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:00:22</sys_updated_on>
+            <u_translation_log_id/>
+            <value>Others only</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>who_was_impacted</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others and me</label>
+            <language>en</language>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:00:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11beb741dba7030039eff7eabf9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:00:22</sys_updated_on>
+            <u_translation_log_id/>
+            <value>Others and me</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>who_was_impacted</element>
+            <name>x_snc_workplace_he_workplace_hs_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-07 23:00:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2821b79213a303001cdf5aef3244b07f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>who_was_impacted</sys_name>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_workplace_he_workplace_hs_case_who_was_impacted</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-07 23:00:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:fb7eb3de13a303001cdf5aef3244b06a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2018-01-11 20:16:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cb7f3fde13a303001cdf5aef3244b0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>damaged_item</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_cb7f3fde13a303001cdf5aef3244b0d4</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2018-01-11 20:16:30</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide the Damaged Item variable">bc3f7bde13a303001cdf5aef3244b0a8</ui_policy>
+        <variable>damaged_item</variable>
+        <variable_set display_value="Impacted items">0106dc9ddba7030039eff7eabf9619b2</variable_set>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

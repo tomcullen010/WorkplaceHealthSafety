@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Message to Task Conversation">feaeb8f29f200300af7196fcc67fcff5</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Send Message to Task Conversation">feaeb8f29f200300af7196fcc67fcff5</compiled_snapshot>
+        <display_text/>
+        <flow display_value="WHS Case Management">e31ac9e9db234300facf752dbf96196e</flow>
+        <order>8</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 23:08:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>771ac9e9db234300facf752dbf96199d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_update_name>sys_hub_action_instance_771ac9e9db234300facf752dbf96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 23:08:21</sys_updated_on>
+        <ui_id>0823df3a-7eec-4896-8b7c-323567d4f803</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=771ac9e9db234300facf752dbf96199d"/>
+    <sys_element_mapping action="delete_multiple" query="id=771ac9e9db234300facf752dbf96199d"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_message</field>
+        <id>771ac9e9db234300facf752dbf96199d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 23:08:21</sys_created_on>
+        <sys_id>7b1ac9e9db234300facf752dbf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 23:08:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_feaeb8f29f200300af7196fcc67fcff5</table>
+        <value>The following investigation record was created: {{211d9cf8-a58c-4b65-a82d-a4205a5ac4c7.record.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_task_record</field>
+        <id>771ac9e9db234300facf752dbf96199d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-08 23:08:21</sys_created_on>
+        <sys_id>3f1ac9e9db234300facf752dbf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-08 23:08:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_feaeb8f29f200300af7196fcc67fcff5</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-07 22:46:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e8b77cddb67030039eff7eabf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_workplace_he_equipment_incident.whs_usrs</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
+        <sys_security_acl display_value="x_snc_workplace_he_equipment_incident">c28b77cddb67030039eff7eabf9619fc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4e8b77cddb67030039eff7eabf9619fe</sys_update_name>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-07 22:46:28</sys_updated_on>
+        <sys_user_role display_value="whs_usrs" name="whs_usrs">cd4b73cddb67030039eff7eabf9619ce</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
